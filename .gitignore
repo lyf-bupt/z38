@@ -332,3 +332,11 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+
+# Z3 dll
+libz3.dll
+z3.dll
+
+# Test data
+test/
